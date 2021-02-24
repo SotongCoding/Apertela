@@ -1,0 +1,5 @@
+Lose_sfx : Mativve (https://freesound.org/people/Mativve/sounds/391536/)
+BG_SOUND_Menu : “Hide and Seek”, from PlayOnLoop.com | Licensed under Creative Commons by Attribution 4.0
+BG_SOUND_Lv1-3 : “Cheerful Day”, from PlayOnLoop.com | Licensed under Creative Commons by Attribution 4.0
+BG_SOUND_Lv4-7 : “Shared Story”, from PlayOnLoop.com | Licensed under Creative Commons by Attribution 4.0
+BG_SOUND_Lv8-9 : “Easy Peasy”, from PlayOnLoop.com | Licensed under Creative Commons by Attribution 4.0
